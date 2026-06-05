@@ -1,0 +1,8 @@
+V1.0.2
+- Fixed: Incorrect default values on startup
+- Fixed: Slider not updating values in real-time (manual input was required)
+- Fixed: Values could not exceed 1000
+- Removed: Refresh button, now updates automatically when redrawing
+- Improved: UI layout + breathing space between categories
+- Improved: Better sorting and removal of unnecessary beacon parameters
+- Added: Switch between two Shape modes for enumeration
